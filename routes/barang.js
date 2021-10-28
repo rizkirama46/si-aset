@@ -1,7 +1,7 @@
 'use strict'
 
 module.exports = function(app) {
-  const barang = require('../controllers/barang')
+  const controller = require('../controllers/barang')
 
-  app.route('/').get(barang.index)
+  app.route('/').get(controller.index)
 }
