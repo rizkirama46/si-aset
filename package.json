@@ -1,0 +1,27 @@
+{
+  "name": "si-aset",
+  "version": "1.0.0",
+  "description": "rebuild project skripsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizkirama46/si-aset.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "mysql",
+    "back-end",
+    "skripsi"
+  ],
+  "author": "rizkirama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizkirama46/si-aset/issues"
+  },
+  "homepage": "https://github.com/rizkirama46/si-aset#readme"
+}
